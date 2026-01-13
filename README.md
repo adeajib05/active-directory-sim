@@ -1,1 +1,6 @@
 # active-directory-sim
+This project focuses on the implementation and configuration of Active Directory Domain Services (AD DS) within a Windows Server environment. The aim was to understand how organisations use Active Directory to centrally manage users, computers, and security policies across a network. By setting up a domain controller and connecting Windows 7 and Windows 8 client machines, this project demonstrates the basic structure and functionality of Active Directory in a simulated enterprise environment.
+
+# What I Learned
+
+Through this project, I gained a practical understanding of how Active Directory is implemented and used in real-world organisations. I learned how to install and configure Active Directory Domain Services, promote a Windows Server to a domain controller, and organise users and computers using organisational units and groups. I also developed an understanding of networking concepts such as VLANs, subnets, and domain-based authentication. Additionally, configuring Group Policy Objects helped me understand how administrators can centrally control user behaviour and security settings across multiple machines, highlighting the importance of Active Directory in managing enterprise networks efficiently.
